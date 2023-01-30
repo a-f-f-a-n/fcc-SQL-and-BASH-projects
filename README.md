@@ -15,3 +15,5 @@ January 28th finished Salon Appointment Scheduler Project & submitted
 January 28th finished Learning Nano by Building a Castle (on FCC)
 
 January 29th finished Learning Git by Building an SQL Reference Object
+
+January 29th finished Periodic Table Database
