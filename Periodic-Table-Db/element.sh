@@ -1,3 +1,4 @@
+#!/bin/bash
 PSQL="psql -X --username=freecodecamp --dbname=periodic_table --tuples-only -c"
 if [[ -z $1 ]] # if there are no arguments
 then
